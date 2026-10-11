@@ -22,12 +22,6 @@ The main objective is to explore how machine learning can support electrical fau
 3. Save your Streamlit dashboard screenshot as `gridguard-dashboard.png` inside `docs/images`.
 4. Commit and push the image to GitHub.
 
-Once the screenshot is uploaded, it will appear in this section.
-
-**Dashboard screenshot:** `docs/images/gridguard-dashboard.png`
-
----
-
 ## 🎯 Project Objectives
 
 - ⚡ Analyze three-phase electrical current and voltage measurements.
