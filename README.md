@@ -14,7 +14,7 @@ The main objective is to explore how machine learning can support electrical fau
 
 **Streamlit Dashboard**
 
-![GridGuard Interface](interface.png)
+![GridGuard_Three_Phase_Fault_Detection](interface.png)
 
 **How to add your screenshot:**
 1. Create a folder named `docs` in the project root.
