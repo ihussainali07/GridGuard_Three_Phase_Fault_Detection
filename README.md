@@ -14,7 +14,7 @@ The main objective is to explore how machine learning can support electrical fau
 
 **Streamlit Dashboard**
 
-Add a screenshot of your running GridGuard application below to showcase the user interface on your GitHub repository.
+![GridGuard Interface](docs/images/interface.png)
 
 **How to add your screenshot:**
 1. Create a folder named `docs` in the project root.
@@ -337,7 +337,7 @@ This project documents the implementation and evaluation of machine learning met
 
 ## 👨‍💻 Author
 
-**Your Name**
+**HUSSAIN ALI**
 
 - GitHub: `https://github.com/YOUR-USERNAME`
 - Repository: `GridGuard_Three_Phase_Fault_Detection`
